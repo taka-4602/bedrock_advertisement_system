@@ -1,0 +1,2 @@
+# bedrock_advertisement_system
+ベッドロックの広告について

@@ -1,7 +1,7 @@
 {
     "enabled": true,
-    "imageUrl": "https://i.postimg.cc/NGVd7zsn/7B888701-04BA-457D-B73C-7C7171ACAAF6.png",
-    "title": "新明地さとりMOD鯖",
-    "description": "まだ作り始めたばかりで人が少ないので今から入ったら超古参になれます！\n主にゲームのMODを販売していきます。\n人が増えていけばギャンブルなど遊び場を作ろうと考えてます",
-    "linkUrl": "https://discord.gg/zYmxhFDd5"
+    "imageUrl": "https://cdn.discordapp.com/banners/1469595526629691448/0610c3da33e53bae44014c07a4a497af.png?size=600",
+    "title": "ベッドロック広告",
+    "description": "ベッドロックの認証ページの最上部に広告を掲載出来るようになりました！\\n広告掲載の申し込みは、ベッドロックコミュニティーから可能です！",
+    "linkUrl": "https://github.com/taka-4602/bedrock_advertisement_system/tree/main"
 }

@@ -1,6 +1,6 @@
 {
-    "ad_title": "ベッドロック広告",
-    "ad_description": "ベッドロックの認証ページの最上部に広告を掲載出来るようになりました！\\n広告掲載の申し込みは、ベッドロックコミュニティーから可能です！",
-    "ad_image_url": "https://cdn.discordapp.com/banners/1469595526629691448/0610c3da33e53bae44014c07a4a497af.png?size=600",            
-    "ad_link": "https://github.com/taka-4602/bedrock_advertisement_system/tree/main"
+    "ad_title": "Discord掲示板「DisLounge」",
+    "ad_description": "ベッドロックと連携したDiscord掲示板「DisLounge」がサービス開始しました！\\nサーバーを登録してアクティブなメンバーも誘致しましょう！",
+    "ad_image_url": "https://raw.githubusercontent.com/DisLounge/DisLounge-Documents/refs/heads/main/images/DisLounge_banner.png",            
+    "ad_link": "https://discord.gg/sG3s28Y9Ev"
 }

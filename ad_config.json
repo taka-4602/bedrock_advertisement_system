@@ -1,7 +1,7 @@
 {
-    "enabled": true,
-    "imageUrl": "https://raw.githubusercontent.com/DisLounge/DisLounge-Documents/refs/heads/main/images/DisLounge_banner.png",
-    "title": "Discord掲示板「DisLounge」",
-    "description": "ベッドロックと連携したDiscord掲示板「DisLounge」がサービス開始しました！\\nサーバーを登録してアクティブなメンバーも誘致しましょう！",
-    "linkUrl": "https://discord.gg/3stABcUyF"
+  "enabled": true,
+  "imageUrl": "https://cdn.discordapp.com/attachments/1441518084841279741/1546422390228000888/0E89FD81-EFD2-47F4-9C87-3218322ABAE7.png?ex=6a9fb994&is=6a9e6814&hm=60115dcdb701eafc8f41e56750b1fbb0ae27336a13029e309dc62b4a60744644",
+  "title": "サーバーブースト販売",
+  "description": "ベッドロックコミュニティーでサーバーブーストを販売します！\\nPayPayで300円から購入できます！\\nここをタップして参加！",
+  "linkUrl": "https://discord.gg/JWKsyMX3ba"
 }

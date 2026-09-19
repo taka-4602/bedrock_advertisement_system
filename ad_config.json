@@ -1,7 +1,7 @@
 {
     "enabled": true,
-    "imageUrl": "https://raw.githubusercontent.com/DisLounge/DisLounge-Documents/refs/heads/main/images/DisLounge_banner.png",
-    "title": "Discord掲示板「DisLounge」",
-    "description": "ベッドロックと連携したDiscord掲示板「DisLounge」がサービス開始しました！\\nサーバーを登録してアクティブなメンバーも誘致しましょう！",
-    "linkUrl": "https://discord.gg/3stABcUyF"
+    "imageUrl": "https://raw.githubusercontent.com/taka-4602/bedrock_advertisement_system/refs/heads/main/image.png",
+    "title": "ベッドロック公認ボットサービス開始！",
+    "description": "100サーバー制限に引っかからない、誰でも無限に導入可能な公認マーク付きベッドロックがサービス開始！\n導入して、ベッドロックコミュニティーへ参加しよう！",
+    "linkUrl": "https://verify.aabedrock.com/installation"
 }
